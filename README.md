@@ -91,7 +91,7 @@ house-price-project/
 ### 1. Clone and enter the project
 
 ```bash
-git clone https://github.com/<your-username>/house-price-app.git
+git clone https://github.com/<Ashrafmahmoud17>/house-price-app.git
 cd house-price-app
 ```
 
