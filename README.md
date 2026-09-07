@@ -3,11 +3,7 @@
 An end-to-end machine-learning product: a Jupyter notebook that cleans real Indian property
 listings and trains a regression model, a FastAPI backend that serves it, and a React frontend
 where a user enters property details and gets an instant price estimate.
-
-> ⚠️ **About the data in this repo.** `notebooks/data/house_prices.csv` in a fresh clone is a
-> small **synthetic sample** (see `notebooks/data/make_synthetic_data.py`) that mimics the real
-> Kaggle dataset's columns and messiness, so the whole pipeline can run out of the box. Swap in
-> the real dataset before treating the results as meaningful — see [Download the dataset](#2-download-the-dataset).
+ [Download the dataset](#2-download-the-dataset).
 
 ## Overview
 
